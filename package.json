@@ -1,0 +1,19 @@
+{
+  "name": "game-one",
+  "version": "1.0.0",
+  "description": "A simple game with Kaboom",
+  "main": "main.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.7.2"
+  },
+  "author": "MannyDiera",
+  "license": "ISC",
+  "dependencies": {
+    "kaboom": "^2000.1.8"
+  }
+}
